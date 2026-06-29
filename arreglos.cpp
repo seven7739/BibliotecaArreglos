@@ -7,19 +7,19 @@ int sumaArreglo(int arr[], int n)
 	return suma;
 }
 
-int maximo (int arr[], int n)
+int minimo (int arr[], int n)
 {
-	int max = arr[0];
+	int min = arr[0];
 	for (int i = 1; i < n; i++)
 	{
-		if (arr[i] > max)
+		if (arr[i] < min)
 		{
-			max = arr[i];
+			min = arr[i];
 		}
 	}
-	return max;
+	return min;
 	#ifdef DEBUG
-		printf("maximo: %d\n", max);	
+		printf("maximo: %d\n", min);	
 	#endif
 }
 
