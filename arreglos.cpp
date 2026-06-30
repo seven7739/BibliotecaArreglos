@@ -2,6 +2,8 @@
 #include <stdio.h>
 
 // cambio interno 
+
+//mensaje desde el espacio extrrior <rama>
 int sumaArreglo(int arr[], int n)
 {
 	int suma = 0;
