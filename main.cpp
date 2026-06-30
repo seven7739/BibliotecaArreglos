@@ -5,7 +5,7 @@ using namespace std;
 
 int main ()
 {
-	int numeros[]= {2,8,10,15,20,32};
+	int numeros[]= {2,8,10,15,20,32,909,897};
     int arreglo[] = {10, 8, 6, 5, 2};
 //	const double euler = 2.7182; 
 //	cout << "suma de arrglo: " << sumaArreglo(numeros, 5) << endl;

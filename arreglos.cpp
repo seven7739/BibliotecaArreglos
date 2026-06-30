@@ -1,6 +1,6 @@
 #include "arreglos.h"
 #include <stdio.h>
-
+// otro cmabio xd 
 // cambio interno 
 
 //mensaje desde el espacio extrrior <rama>
